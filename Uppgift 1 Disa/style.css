@@ -1,0 +1,13 @@
+body{
+content: center;
+background-color: lightgrey;
+margin: 50px;
+}
+
+img{
+    height: 300px;
+}
+
+a:link {
+    text-decoration: none;
+  }
